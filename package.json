@@ -1,0 +1,15 @@
+{
+  "name": "20232bset03p2",
+  "version": "1.0.0",
+  "description": "Inteli - Engenharia de Software | Avaliação 2023-2B P2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6"
+  }
+}
