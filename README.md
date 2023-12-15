@@ -8,6 +8,7 @@ npm install
 Caso encontre, ainda assim, algum problema, rodar:
 
 npm install body-parser express sqlite3
+
 npm install nodemon -g
 
 ## Passada a etapa de instalação, temos a etapa de sanitizar e validar dados de entrada para evitar SQL Injection.
